@@ -1,0 +1,14 @@
+"""Domain enumerations."""
+from enum import Enum
+
+
+class JobStatus(str, Enum):
+    PENDING = "PENDING"
+    PROCESSING = "PROCESSING"
+    COMPLETED = "COMPLETED"
+    FAILED = "FAILED"
+
+
+class CertificateStatus(str, Enum):
+    SUCCESS = "SUCCESS"
+    FAILED = "FAILED"

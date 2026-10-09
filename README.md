@@ -1,6 +1,6 @@
-👨‍💻 Author
-Abhinandan Mahanta
-GitHub: ABHINANDAN-M
+👨‍💻 Author - 
+Abhinandan Mahanta ,
+GitHub: ABHINANDAN-M ,
 LinkedIn: https://www.linkedin.com/in/abhinandan-mahanta-0065a028b/?isSelfProfile=true
 
 # Bulk Certificate Generator
